@@ -1,7 +1,8 @@
 KString.net
 ===========
 
-Korean String Extension for .NET
+Korean String Extension for .NET 
+![](https://ci.appveyor.com/api/projects/status/github/modamoda/kstring.net)
 
 한글 자모 시스템에 특화된 문자열 비교 및 다양한 기능을 제공합니다.
 Extension library for String class, specially optimized for _"Hangul Jamo System"_

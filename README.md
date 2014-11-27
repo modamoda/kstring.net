@@ -59,8 +59,8 @@ Required
 
 See Also
 --------
-* [Hangul(wikipedia)|url:http://en.wikipedia.org/wiki/Hangul]
-* [한글(위키백과)|http://ko.wikipedia.org/wiki/%ED%95%9C%EA%B8%80]
+* [Hangul(wikipedia)](http://en.wikipedia.org/wiki/Hangul)
+* [한글(위키백과)](http://ko.wikipedia.org/wiki/%ED%95%9C%EA%B8%80)
 
 ### Special Thanks to
 * HeeJae Chang

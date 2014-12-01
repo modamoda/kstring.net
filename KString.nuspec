@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>KString</id>
+        <version>$version</version>
+        <title>Korean String Extension</title>
+        <authors>Joon</authors>
+        <owners>Joon</owners>
+        <licenseUrl>https://github.com/modamoda/kstring.net</licenseUrl>
+        <projectUrl>https://github.com/modamoda/kstring.net</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Extension library for String class, specially optimized for "Hangul Jamo System"
+
+Required
+- .NET 4.0 or higher
+- Windows Phone 7.5 or higher
+- Windows Store Apps
+- Silverlight 5 or higher</description>
+        <summary>Extension library for "string" class that enhances "Hangul Jamo system" features</summary>
+        <copyright>2012-2014 by Joon</copyright>
+        <language>ko-KR</language>
+        <tags>Language, Korean</tags>
+    </metadata>
+    <files>
+        <file src="KStringExtension\bin\Release\KStringExtension.dll" target="lib\portable-net4+sl5+wp71+win8" />
+    </files>
+</package>
